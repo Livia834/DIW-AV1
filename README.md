@@ -1,11 +1,11 @@
-Questão 3)
+Questão 3)<br>
 
 [1,0 pt] a) Qual tag HTML é utilizada para criar um link (hiperlink) que direciona o usuário 
-para outra página?
-( ) < link > 
-(x) < href > 
-( ) < a > 
-( ) < url > 
+para outra página?<br>
+( ) < link > <br>
+(x) < href > <br>
+( ) < a > <br>
+( ) < url > <br>
 
 [1,0 pt] b) Qual é a forma correta de vincular um arquivo CSS externo chamado "index.css" a 
 um documento HTML? 
