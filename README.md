@@ -1,4 +1,4 @@
-Questão 3)  
+Questão 3) <br> 
 
 [1,0 pt] a) Qual tag HTML é utilizada para criar um link (hiperlink) que direciona o usuário 
 para outra página? 
